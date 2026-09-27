@@ -1,5 +1,8 @@
 jsonld-schema-audit
 
+<img width="170" height="20" alt="image" src="https://github.com/user-attachments/assets/a54d4426-8e79-4903-afd6-2959b66ce411" />
+
+
  (https://github.com/bryanhamiltondev/jsonld-schema-audit/actions/workflows/audit.yml)
 
 A zero-dependency PHP CLI tool that audits HTML for JSON-LD structured data -
