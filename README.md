@@ -41,14 +41,9 @@ broken schema can never merge.
 
 ## Example
 
-```
-$ php audit.php tests/fixtures/broken.html
-=== SCHEMA AUDIT: 2 error(s) across 1 block(s) ===
-
-tests/fixtures/broken.html  [JSON-LD block 1]
-  [MusicEvent] missing required property "performer" on https://example.com/event/2#event
-  [MusicEvent] property "@id" references unresolved @id "https://example.com/venue/ghost#venue"
-```
+## Live audit
+Real production pages from The DJ Calendar (thedjcalendar.com), audited clean:
+<img width="989" height="611" alt="Screenshot 2026-09-28 at 12 14 22 AM" src="https://github.com/user-attachments/assets/d44c84da-f3ff-49cf-bc58-29712eb985d7" />
 
 Clean pages are silent:
 
