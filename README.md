@@ -80,3 +80,4 @@ If the tool ever stops catching the failure it was built for, CI goes red.
 ## License
 
 MIT
+Built by Bryan Hamilton
